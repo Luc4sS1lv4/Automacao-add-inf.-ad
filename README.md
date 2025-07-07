@@ -28,4 +28,4 @@ O script requer um arquivo `.CSV` com a seguinte estrutura:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Luc4sS1lv4/Automacao-add-inf.-ad/
